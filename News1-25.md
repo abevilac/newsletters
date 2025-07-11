@@ -13,30 +13,30 @@ Our recent business meeting (at the IAVCEI Scientific Assembly 2025) was organis
 
 We are pleased to announce results of the election:
 
-**Leader** Andrea Bevilacqua
+**Leader** Andrea Bevilacqua, Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Pisa, Italy.
 
-**Secretary** Stuart Mead
+**Secretary** Stuart Mead, Massey University, School of Agriculture and Environment, New Zealand.
 
-**ECR Representative** Vanesa Burgos
+**ECR Representative** Vanesa Burgos, University of Alaska-Fairbanks, Geophyical Institute, USA.
 
-Outgoing co-leader Susanna will remain on the board in an ex-officio role to support the transition.
+Outgoing co-leader Susanna Jenkins will remain on the board in an ex-officio role to support the transition.
 
 Congratulations to the new leaders!
 
 ### Spotlight Statistical Volcanology workshop
 
-We’re excited to announce plans for a dedicated Statistical Volcanology Workshop, inspired by the successful model used in Statistical Seismology.
+We’re excited to announce plans for a dedicated Statistical Volcanology Workshop, inspired by the successful model used in Statistical Seismology and the past experiences of the COSIV workshops at Lassen Volcano, USA (2017) and Kagoshima, Japan (2013).
 
-The current idea is to host single-stream session over 3-4 years, provisionally in 2026, with Europe seeming a central location. The goals will be to build our community, share methods and explore the potential for institutional support from IAVCEI and IUGG. If you’re interested in helping shape or support this event, please get in touch!
+The current idea is to host single-stream session over 3-4 years, provisionally in 2026, with Europe seeming a central location. The goals will be to build our community, share methods and explore the potential for institutional support from IAVCEI, IUGG and local organizations. If you’re interested in helping shape or support this event, please get in touch!
 
 ### Key items for members
 Here is how you can contribute to COSIV
 
 **1. Update your membership info**
-Our mailing list may be incomplete. If you're a current or prospective member, please fill out the form to help us stay connected, and share with colleagues the membership from is [here](https://forms.gle/zw3BxyJSuV8w5NPS7)
+Our mailing list may be incomplete or outdated. If you're a current or prospective member, please fill out the form to help us stay connected, and share with colleagues the membership from is [here](https://forms.gle/zw3BxyJSuV8w5NPS7)
 
 **2. Get involved in sessions**
-If you are planning a session in a volcanology related conference (it can be local or international), COSVI can support session proposals to help with acceptance and find members to support convening. Reach out to the leadership for support.
+If you are planning a session in a volcanology related conference (it can be local or international), COSIV can sponsor session proposals to help with acceptance and find members to support convening. Reach out to the leadership for support.
 
 **3. Other initiatives**
 The previous working group on volcanic record completeness has wrapped up, and we welcome new ideas for collaborative projects. Whether you're interested in forming a new working group or contributing to ongoing efforts, COSIV provides a platform to connect and create.
