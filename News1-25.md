@@ -27,7 +27,7 @@ Congratulations to the new leaders!
 
 We’re excited to announce plans for a dedicated Statistical Volcanology Workshop, inspired by the successful model used in Statistical Seismology and the past experiences of the COSIV workshops at Lassen Volcano, USA (2017) and Kagoshima, Japan (2013).
 
-The current idea is to host single-stream session over 3-4 years, provisionally in 2026, with Europe seeming a central location. The goals will be to build our community, share methods and explore the potential for institutional support from IAVCEI, IUGG and local organizations. If you’re interested in helping shape or support this event, please get in touch!
+The current idea is to host single-stream session over 3-4 years, provisionally in 2026-2027, with Europe seeming a central location. The goals will be to build our community, share methods and explore the potential for institutional support from IAVCEI, IUGG and local organizations. If you’re interested in helping shape or support this event, please get in touch!
 
 ### Key items for members
 Here is how you can contribute to COSIV
